@@ -24,7 +24,7 @@
 ## 🧬 About Me
 
 ```kotlin
-val spider = Developer(
+    spider = Developer(
     name     = "Spider",
     location = "India 🇮🇳",
     focus    = listOf("Android Dev", "UI/UX Design", "Music Apps"),
